@@ -1,3 +1,9 @@
 [submodule "Projects/Module_DHT22"]
 	path = Projects/Module_DHT22
 	url = https://github.com/ModularMonitor/Module_DHT22
+[submodule "Libraries/TFT"]
+	path = Libraries/TFT
+	url = https://github.com/ModularMonitor/lib-TFT
+[submodule "Libraries/Serial"]
+	path = Libraries/Serial
+	url = https://github.com/ModularMonitor/lib-Serial
