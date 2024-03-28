@@ -1,0 +1,3 @@
+[submodule "Projects/Module_DHT22"]
+	path = Projects/Module_DHT22
+	url = https://github.com/ModularMonitor/Module_DHT22
