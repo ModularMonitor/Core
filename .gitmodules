@@ -7,6 +7,6 @@
 [submodule "Libraries/Serial"]
 	path = Libraries/Serial
 	url = https://github.com/ModularMonitor/lib-Serial
-[submodule "Projects/Projects/Brain"]
-	path = Projects/Projects/Brain
+[submodule "Projects/Brain"]
+	path = Projects/Brain
 	url = https://github.com/ModularMonitor/Brain
