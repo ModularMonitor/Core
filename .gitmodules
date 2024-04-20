@@ -10,3 +10,6 @@
 [submodule "Projects/Brain"]
 	path = Projects/Brain
 	url = https://github.com/ModularMonitor/Brain
+[submodule "Projects/Module_MICS6814"]
+	path = Projects/Module_MICS6814
+	url = https://github.com/ModularMonitor/Module_MICS6814
