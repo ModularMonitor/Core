@@ -19,3 +19,12 @@
 [submodule "Projects/Module_LY038_HW072"]
 	path = Projects/Module_LY038_HW072
 	url = https://github.com/ModularMonitor/Module_LY038_HW072
+[submodule "Libraries/Adafruit-BMP085-Library"]
+	path = Libraries/Adafruit-BMP085-Library
+	url = https://github.com/ModularMonitor/lib-Adafruit-BMP085-Library
+[submodule "Libraries/Adafruit_BusIO"]
+	path = Libraries/Adafruit_BusIO
+	url = https://github.com/ModularMonitor/lib-Adafruit_BusIO
+[submodule "Libraries/HMC5883L_Simple"]
+	path = Libraries/HMC5883L_Simple
+	url = https://github.com/ModularMonitor/lib-HMC5883L_Simple
