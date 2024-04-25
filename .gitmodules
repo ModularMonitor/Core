@@ -13,9 +13,15 @@
 [submodule "Projects/Module_MICS6814"]
 	path = Projects/Module_MICS6814
 	url = https://github.com/ModularMonitor/Module_MICS6814
-[submodule "Libraries/iecdevlib"]
-	path = Libraries/iecdevlib
-	url = https://github.com/ModularMonitor/lib-i2cdevlib
+[submodule "Projects/Module_PMSDS011"]
+	path = Projects/Module_PMSDS011
+	url = https://github.com/ModularMonitor/Module_PMSDS011
+[submodule "Projects/Module_GY87"]
+	path = Projects/Module_GY87
+	url = https://github.com/ModularMonitor/Module_GY87
+[submodule "Projects/Module_CCS811"]
+	path = Projects/Module_CCS811
+	url = https://github.com/ModularMonitor/Module_Module_CCS811
 [submodule "Projects/Module_LY038_HW072"]
 	path = Projects/Module_LY038_HW072
 	url = https://github.com/ModularMonitor/Module_LY038_HW072
@@ -28,3 +34,18 @@
 [submodule "Libraries/HMC5883L_Simple"]
 	path = Libraries/HMC5883L_Simple
 	url = https://github.com/ModularMonitor/lib-HMC5883L_Simple
+[submodule "Libraries/i2cdevlib"]
+	path = Libraries/i2cdevlib
+	url = https://github.com/ModularMonitor/lib-i2cdevlib
+[submodule "Libraries/espsoftwareserial"]
+	path = Libraries/espsoftwareserial
+	url = https://github.com/ModularMonitor/lib-espsoftwareserial
+[submodule "Libraries/esp_sds011"]
+	path = Libraries/esp_sds011
+	url = https://github.com/ModularMonitor/lib-esp_sds011
+[submodule "Libraries/Adafruit_Sensor"]
+	path = Libraries/Adafruit_Sensor
+	url = https://github.com/ModularMonitor/lib-Adafruit_Sensor
+[submodule "Libraries/DHT-sensor-library"]
+	path = Libraries/DHT-sensor-library
+	url = https://github.com/ModularMonitor/lib-DHT-sensor-library
