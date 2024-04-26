@@ -49,3 +49,6 @@
 [submodule "Libraries/DHT-sensor-library"]
 	path = Libraries/DHT-sensor-library
 	url = https://github.com/ModularMonitor/lib-DHT-sensor-library
+[submodule "Libraries/SelfThreadable"]
+	path = Libraries/SelfThreadable
+	url = https://github.com/ModularMonitor/lib-SelfThreadable
