@@ -21,7 +21,7 @@
 	url = https://github.com/ModularMonitor/Module_GY87
 [submodule "Projects/Module_CCS811"]
 	path = Projects/Module_CCS811
-	url = https://github.com/ModularMonitor/Module_Module_CCS811
+	url = https://github.com/ModularMonitor/Module_CCS811
 [submodule "Projects/Module_LY038_HW072"]
 	path = Projects/Module_LY038_HW072
 	url = https://github.com/ModularMonitor/Module_LY038_HW072
