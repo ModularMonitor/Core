@@ -52,3 +52,12 @@
 [submodule "Libraries/SelfThreadable"]
 	path = Libraries/SelfThreadable
 	url = https://github.com/ModularMonitor/lib-SelfThreadable
+[submodule "Auxiliary projects/RGB_fixer"]
+	path = Auxiliary projects/RGB_fixer
+	url = https://github.com/ModularMonitor/tool-RGB_fixer
+[submodule "Auxiliary projects/TCP_simple_connection"]
+	path = Auxiliary projects/TCP_simple_connection
+	url = https://github.com/ModularMonitor/tool-TCP_connection
+[submodule "Raspberry Software/AutoIP"]
+	path = Raspberry Software/AutoIP
+	url = https://www.github.com/Lohkdesgds/AutoIP
